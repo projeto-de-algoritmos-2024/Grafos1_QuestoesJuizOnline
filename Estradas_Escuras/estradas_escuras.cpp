@@ -8,7 +8,7 @@ struct Aresta {
     int origem, destino, peso;
 };
 
-// definição de um conjunto disjunto para o algoritmo de Kruskal
+// definição de um conjunto disjunto
 class ConjuntoDisjunto {
 public:
     ConjuntoDisjunto(int tamanho) {
