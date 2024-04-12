@@ -19,8 +19,8 @@ Descreva os objetivos do seu projeto e como ele funciona.
 #### Exercício 01 - Estradas Escuras
 
 Dificuldade: Média - 5<br>
-Descrição do Problema: [Estradas Escuras](https://judge.beecrowd.com/pt/problems/view/1152)
-Solução Proposta: [Código de Solução][https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Estradas_Escuras/estradas_escuras.cpp] 
+Descrição do Problema: [Estradas Escuras](https://judge.beecrowd.com/pt/problems/view/1152)<br>
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Estradas_Escuras/estradas_escuras.cpp) 
 
 No problema acima, resolvido em C++ ...
 
