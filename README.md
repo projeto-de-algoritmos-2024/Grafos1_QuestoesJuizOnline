@@ -22,8 +22,6 @@ Dificuldade: Média - 5<br>
 Descrição do Problema: [Estradas Escuras](https://judge.beecrowd.com/pt/problems/view/1152)<br>
 Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Estradas_Escuras/estradas_escuras.cpp) 
 
-No problema acima, resolvido em C++ ...
-
 ![](assets/estradas_escuras.png)
 
 ## Instalação
@@ -34,7 +32,24 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Instruções para compilar e executar o código C++:
+
+1. Certifique-se de ter um compilador para C++ instalado em sua máquina. Recomendamos o g++.
+
+2. Faça o clone do repositório Git para o seu ambiente local.
+
+3. No terminal, navegue até o diretório onde está localizado o arquivo de código-fonte (.cpp) que deseja compilar.
+
+4. Compile o arquivo de código-fonte utilizando o seguinte comando:
+```g++ -o <nome-do-executavel> <nome-do-arquivo.cpp>```
+Substitua <nome-do-executavel> pelo nome desejado para o executável e <nome-do-arquivo.cpp> pelo nome do arquivo de código-fonte.
+
+5. Após a compilação bem-sucedida, execute o programa com o seguinte comando:
+```./<nome-do-executavel>```
+Certifique-se de estar no diretório correto em seu terminal para executar o programa.
+
+6. Opcional: Deixamos arquivos de entrada para casos de teste (por exemplo, in.txt). Assim, você pode redirecionar a entrada para o programa durante a execução. Por exemplo:
+```./<nome-do-executavel> < <nome-do-arquivo-de-input>.txt```
 
 ## Outros
 
