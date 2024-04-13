@@ -12,7 +12,8 @@
 
 ## Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona.
+Este projeto consiste na realização de exercícios da plataforma de juiz online Beecrowd. São desenvolvidos problemas de média e alta
+complexidade com ênfase em grafos. Os exercícios passaram nos casos de teste e na análise do site resultando em Accepted. 
 
 ## Screenshots
 
@@ -24,24 +25,35 @@ Solução Proposta: [Código de Solução](https://github.com/projeto-de-algorit
 
 ![](assets/estradas_escuras.png)
 
+#### Exercício 02 - Movimentos do Cavalo
+
+Dificuldade: Média - 5<br>
+Descrição do Problema: [Movimentos do Cavalo](https://judge.beecrowd.com/pt/problems/view/1100)<br>
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Movimentos%20do%20Cavalo/movimentos_cavalo.c) 
+
+![](assets/movimentos_cavalo.png)
+
 ## Instalação
 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: C, C++<br>
+<!-- **Framework**: (caso exista)<br> -->
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso
 
 Instruções para compilar e executar o código C++:
 
-1. Certifique-se de ter um compilador para C++ instalado em sua máquina. Recomendamos o g++.
+1. Certifique-se de ter um compilador para C, C++ instalado em sua máquina. Recomendamos o gcc.
 
 2. Faça o clone do repositório Git para o seu ambiente local.
 
-3. No terminal, navegue até o diretório onde está localizado o arquivo de código-fonte (.cpp) que deseja compilar.
+3. No terminal, navegue até o diretório onde está localizado o arquivo de código-fonte (.cpp ou .c) que deseja compilar.
 
-4. Compile o arquivo de código-fonte utilizando o seguinte comando:
+4. - Compile o arquivo de código-fonte utilizando o seguinte comando:
 ```g++ -o <nome-do-executavel> <nome-do-arquivo.cpp>```
+Substitua <nome-do-executavel> pelo nome desejado para o executável e <nome-do-arquivo.cpp> pelo nome do arquivo de código-fonte.
+    - Para a execução em C: Compile o arquivo de código-fonte utilizando o seguinte comando:
+```gcc <nome-do-arquivo.cpp> -o <nome-do-executavel> ```
 Substitua <nome-do-executavel> pelo nome desejado para o executável e <nome-do-arquivo.cpp> pelo nome do arquivo de código-fonte.
 
 5. Após a compilação bem-sucedida, execute o programa com o seguinte comando:
@@ -51,6 +63,8 @@ Certifique-se de estar no diretório correto em seu terminal para executar o pro
 6. Opcional: Deixamos arquivos de entrada para casos de teste (por exemplo, in.txt). Assim, você pode redirecionar a entrada para o programa durante a execução. Por exemplo:
 ```./<nome-do-executavel> < <nome-do-arquivo-de-input>.txt```
 
-## Outros
+<!--## Outros
 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+-->
