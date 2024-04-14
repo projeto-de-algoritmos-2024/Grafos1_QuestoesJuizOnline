@@ -19,15 +19,23 @@ complexidade com ênfase em grafos. Os exercícios passaram nos casos de teste e
 
 #### Exercício 01 - Estradas Escuras
 
-Dificuldade: Média - 5<br>
+Dificuldade: Difícil <br>
+Descrição do Problema: [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)<br>
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Longest_Increasing_Path_Matrix/longest_increasing_path_matrix.cpp) 
+
+![](assets/longest_increasing_path.png)
+
+#### Exercício 02 - Estradas Escuras
+
+Dificuldade: Média<br>
 Descrição do Problema: [Estradas Escuras](https://judge.beecrowd.com/pt/problems/view/1152)<br>
 Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Estradas_Escuras/estradas_escuras.cpp) 
 
 ![](assets/estradas_escuras.png)
 
-#### Exercício 02 - Movimentos do Cavalo
+#### Exercício 03 - Movimentos do Cavalo
 
-Dificuldade: Média - 5<br>
+Dificuldade: Média<br>
 Descrição do Problema: [Movimentos do Cavalo](https://judge.beecrowd.com/pt/problems/view/1100)<br>
 Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Movimentos%20do%20Cavalo/movimentos_cavalo.c) 
 
