@@ -17,7 +17,7 @@ complexidade com ênfase em grafos. Os exercícios passaram nos casos de teste e
 
 ## Screenshots
 
-#### Exercício 01 - Estradas Escuras
+#### Exercício 01 - Longest Increasing Path in a Matrix
 
 Dificuldade: Difícil <br>
 Descrição do Problema: [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)<br>
