@@ -38,7 +38,7 @@ class Solution {
 };
 
 int main() {
-    // A função main foi escrita apenas para quem quiser testaruma vez que não é necessária pro LeetCode.
+    // A função main foi escrita apenas para quem quiser testar, uma vez que não é necessária pro LeetCode.
     // Dessa forma, quem quiser testar o código via terminal conseguirá =)
     
     cout << "Digite o número de linhas e colunas da matriz: ";
