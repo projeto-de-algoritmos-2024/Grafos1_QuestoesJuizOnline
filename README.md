@@ -45,7 +45,7 @@ Solução Proposta: [Código de Solução](https://github.com/projeto-de-algorit
 
 Dificuldade: Média<br>
 Descrição do Problema: [Componentes Conexos](https://judge.beecrowd.com/pt/problems/view/1082)<br>
-Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/Movimentos%20do%20Cavalo/movimentos_cavalo.c) 
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestoesJuizOnline/blob/master/componentes_conectados/componentes_conexos.c) 
 
 ![](assets/componentes_conexos.png)
 
