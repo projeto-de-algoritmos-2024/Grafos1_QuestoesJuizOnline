@@ -10,6 +10,9 @@
 | 21/1062016 | José André Rabelo Rocha |
 | 20/0020323 | Jefferson Sena Oliveira         |
 
+## Apresentação
+A apresentação pode ser vista no YouTube por meio do link: https://youtu.be/rb0khSGuuG0
+
 ## Sobre
 
 Este projeto consiste na realização de exercícios da plataforma de juiz online Beecrowd. São desenvolvidos problemas de média e alta
